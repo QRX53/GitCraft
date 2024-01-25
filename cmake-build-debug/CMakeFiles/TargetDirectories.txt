@@ -1,0 +1,3 @@
+/Users/qrx53/CLionProjects/GitCraft/cmake-build-debug/CMakeFiles/gitcraftd.dir
+/Users/qrx53/CLionProjects/GitCraft/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qrx53/CLionProjects/GitCraft/cmake-build-debug/CMakeFiles/rebuild_cache.dir
