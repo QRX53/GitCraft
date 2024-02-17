@@ -7,8 +7,7 @@ int main(void) {
         exit(EXIT_FAILURE);
     }
 
-    int d = daemonize();
-    if (d == 1) {
+    if (daemonize() == 1) {
         logo(LOG_ERR, "Failed to daemonize");
         exit(EXIT_FAILURE);
     }
